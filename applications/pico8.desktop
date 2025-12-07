@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Pico-8 Fantaisy Console
+Comment=Retro game programming!
+Exec="pico8"
+Icon=pico8
+Terminal=false
+Type=Application
+Categories=Development;
